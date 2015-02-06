@@ -2,7 +2,7 @@
 
 Name: 		python-%{upstream_name}
 Version: 	0.8.2
-Release: 	1
+Release: 	2
 Summary: 	A pure git implementation of a sliding window memory map manager
 License:	BSD
 Group: 		Development/Python
