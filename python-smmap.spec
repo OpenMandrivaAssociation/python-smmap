@@ -1,13 +1,13 @@
 %define upstream_name smmap
 
 Name: 		python-%{upstream_name}
-Version: 	0.8.2
-Release: 	2
+Version:	0.9.0
+Release:	1
 Summary: 	A pure git implementation of a sliding window memory map manager
 License:	BSD
 Group: 		Development/Python
 Url: 		http://pypi.python.org/pypi/smmap
-Source0: 	http://pypi.python.org/packages/source/s/smmap/smmap-%{version}.tar.gz
+Source0:	https://files.pythonhosted.org/packages/bc/aa/b744b3761fff1b10579df996a2d2e87f124ae07b8336e37edc89cc502f86/smmap-0.9.0.tar.gz
 BuildRequires:  python-distribute
 BuildArch:      noarch
 
