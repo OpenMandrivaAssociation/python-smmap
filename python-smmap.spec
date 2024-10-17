@@ -6,7 +6,7 @@ Release:	1
 Summary: 	A pure git implementation of a sliding window memory map manager
 License:	BSD
 Group: 		Development/Python
-Url: 		http://pypi.python.org/pypi/smmap
+Url: 		https://pypi.python.org/pypi/smmap
 Source0:	https://files.pythonhosted.org/packages/source/s/smmap/%{upstream_name}-%{version}.tar.gz
 BuildRequires:  python-distribute
 BuildArch:      noarch
