@@ -1,7 +1,7 @@
 %define upstream_name smmap
 
 Name: 		python-%{upstream_name}
-Version:	5.0.1
+Version:	5.0.2
 Release:	1
 Summary: 	A pure git implementation of a sliding window memory map manager
 License:	BSD
