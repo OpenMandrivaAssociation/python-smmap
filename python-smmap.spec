@@ -1,8 +1,8 @@
 %define upstream_name smmap
 
 Name: 		python-%{upstream_name}
-Version:	5.0.2
-Release:	2
+Version:	5.0.3
+Release:	1
 Summary: 	A pure git implementation of a sliding window memory map manager
 License:	BSD
 Group: 		Development/Python
@@ -16,7 +16,7 @@ When reading from many possibly large files in a fashion similar to random
 access, it is usually the fastest and most efficient to use memory maps.
 
 %prep
-%autosetup -p1 -n %upstream_name-%version
+%autosetup -p1 -n smmap-5.0.3
 
 %build
 %py_build
